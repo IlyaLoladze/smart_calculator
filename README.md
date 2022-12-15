@@ -10,9 +10,9 @@ A calculator, which can solve expressions with more than one operation like '24 
 2) Divide expression on successive operations
   - from '1 + 5 - (4 * 2^3 / 20)' to:
     1) 2^3
-    2) 4 * (1)
-    3) (2) / 20
+    2) 4 * (i)
+    3) (ii) / 20
     4) 1 + 5
-    5) (4) - (3)
+    5) (iv) - (iii)
 3) Calculate all operations from 2 paragraph and get final result
   - as an addition save the original input expression and the calculated result
