@@ -17,7 +17,7 @@ A calculator, which can solve expressions with more than one operation like '24 
 3) Calculate all operations from 2 paragraph and get final result
   - as an addition save the original input expression and the calculated result
 
-# Bulding project
+# Building project
 In the terminal (./src):
 ```shell
 python3 main.py
