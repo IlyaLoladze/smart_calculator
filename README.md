@@ -17,5 +17,14 @@ A calculator, which can solve expressions with more than one operation like '24 
 3) Calculate all operations from 2 paragraph and get final result
   - as an addition save the original input expression and the calculated result
 
+# Bulding project
+In the terminal (./src):
+```shell
+python3 main.py
+```
+Or with bash (./example)
+```shell
+bash ./compile.sh
+```
 ![](https://github.com/IlyaLoladze/smart_calculator/blob/main/example/Screenshot%202022-12-15%20at%2016.29.41.png)
 
