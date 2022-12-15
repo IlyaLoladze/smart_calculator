@@ -28,3 +28,8 @@ bash ./compile.sh
 ```
 ![](https://github.com/IlyaLoladze/smart_calculator/blob/main/example/Screenshot%202022-12-15%20at%2016.29.41.png)
 
+# Further updates
+1. Optimize the code
+2. Add more detailed feedback about the incorrectness of input
+3. Imrpove the algorithm (there are still cases, where it does not work properly)
+4. Add shell / python script for saving the history of queries to the calculator (with info 'a wrotten expression' + 'a result from program')
